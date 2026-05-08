@@ -8,6 +8,3 @@ This is a C++ Inventory Management System designed for **Tech City**, an electro
 - **STL Integration:** Utilizes `std::vector` for storage and `std::sort` / `std::remove_if` for data management.
 - **Exception Handling:** Custom error management for invalid product IDs and unsupported gadget types.
 - **Generics:** Implemented a template-based `Inventory` class.
-
-## Business Context
-This project implements the "Inventory Check" and "Product Selection" processes outlined in the Tech City Business Plan.
